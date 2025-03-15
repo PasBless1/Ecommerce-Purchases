@@ -38,8 +38,7 @@ This repository contains the Jupyter notebook for the "Ecommerce Purchase Analys
 - **Python:** For all computational tasks including data manipulation, visualization, and machine learning.
 - **Pandas and NumPy:** For data handling and numerical operations.
 - **Matplotlib and Seabean:** For data visualization.
-- **Scikit-Learn:** For implementing machine learning algorithms.
-
+  
 ---
 
 ### **Future Work:**
